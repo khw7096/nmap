@@ -3,5 +3,9 @@
 
 # InterNIC : Network Information Center.
 ```
-whois IP
+whois <IP>
+```
+# search Route
+```
+traceroute <IP>
 ```
