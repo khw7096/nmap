@@ -9,3 +9,7 @@ whois <IP>
 ```
 traceroute <IP>
 ```
+
+#check port
+- netstat
+- nmap
