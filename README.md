@@ -3,7 +3,7 @@
 
 # InterNIC : Network Information Center.
 ```
-whois <IP>
+whois <IP, HOST>
 ```
 # search Route
 ```
